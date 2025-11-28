@@ -1,0 +1,139 @@
+Generation : 0
+[efficiency : 0.77186,	copper_loss : 23333.7,	torque : 0.335063,	iron_loss : 0.91776,	current : 63.4115	]
+[efficiency : 0.75642,	copper_loss : 25421.4,	torque : 0.335063,	iron_loss : 1.06587,	current : 63.4115	]
+[efficiency : 0.640209,	copper_loss : 44362.6,	torque : 0.335063,	iron_loss : 4.99872,	current : 63.4115	]
+[efficiency : 0.671399,	copper_loss : 38639,	torque : 0.335063,	iron_loss : 0.126847,	current : 63.4115	]
+[efficiency : 0.82133,	copper_loss : 17174,	torque : 0.335063,	iron_loss : 0.0184914,	current : 63.4115	]
+[efficiency : 0.60457,	copper_loss : 51635.9,	torque : 0.335063,	iron_loss : 1.11993,	current : 63.4115	]
+[efficiency : 0.799437,	copper_loss : 19806.3,	torque : 0.335063,	iron_loss : 0.0840615,	current : 63.4115	]
+[efficiency : 0.753414,	copper_loss : 25838.8,	torque : 0.335063,	iron_loss : 0.0199125,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.00701189,	current : 63.4115	]
+[efficiency : 0.567573,	copper_loss : 60148.5,	torque : 0.335063,	iron_loss : 0.556674,	current : 63.4115	]
+	Average efficiency: 0.724338
+	Maximum efficiency: 0.857167
+
+Generation : 1
+[efficiency : 0.82133,	copper_loss : 17174,	torque : 0.335063,	iron_loss : 0.0322509,	current : 63.4115	]
+[efficiency : 0.799437,	copper_loss : 19806.3,	torque : 0.335063,	iron_loss : 0.0246703,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.0143515,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.00701189,	current : 63.4115	]
+[efficiency : 0.82133,	copper_loss : 17174,	torque : 0.335063,	iron_loss : 0.0184914,	current : 63.4115	]
+[efficiency : 0.799437,	copper_loss : 19806.3,	torque : 0.335063,	iron_loss : 0.0840615,	current : 63.4115	]
+[efficiency : 0.654003,	copper_loss : 41766.1,	torque : 0.335063,	iron_loss : 0.697362,	current : 63.4115	]
+[efficiency : 0.670451,	copper_loss : 38794.5,	torque : 0.335063,	iron_loss : 10.7227,	current : 63.4115	]
+[efficiency : 0.777621,	copper_loss : 22576.8,	torque : 0.335063,	iron_loss : 0.0774815,	current : 63.4115	]
+[efficiency : 0.724798,	copper_loss : 29975.9,	torque : 0.335063,	iron_loss : 0.00804631,	current : 63.4115	]
+	Average efficiency: 0.778274
+	Maximum efficiency: 0.857167
+
+Generation : 2
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.0116662,	current : 63.4115	]
+[efficiency : 0.83733,	copper_loss : 15337.3,	torque : 0.335063,	iron_loss : 0.0476018,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.00762739,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.00701189,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.0143515,	current : 63.4115	]
+[efficiency : 0.82133,	copper_loss : 17174,	torque : 0.335063,	iron_loss : 0.0184914,	current : 63.4115	]
+[efficiency : 0.814288,	copper_loss : 18005.3,	torque : 0.335063,	iron_loss : 0.00385117,	current : 63.4115	]
+[efficiency : 0.812501,	copper_loss : 18218.5,	torque : 0.335063,	iron_loss : 0.0207757,	current : 63.4115	]
+[efficiency : 0.792884,	copper_loss : 20622.5,	torque : 0.335063,	iron_loss : 0.103869,	current : 63.4115	]
+[efficiency : 0.866349,	copper_loss : 12179.1,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+	Average efficiency: 0.837335
+	Maximum efficiency: 0.866349
+
+Generation : 3
+[efficiency : 0.84783,	copper_loss : 14169.6,	torque : 0.335063,	iron_loss : 0.0099892,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.00701189,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0109228,	current : 63.4115	]
+[efficiency : 0.866349,	copper_loss : 12179.1,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.00701189,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.00762739,	current : 63.4115	]
+[efficiency : 0.594327,	copper_loss : 53886,	torque : 0.335063,	iron_loss : 1.52893,	current : 63.4115	]
+[efficiency : 0.769858,	copper_loss : 23600.2,	torque : 0.335063,	iron_loss : 0.314856,	current : 63.4115	]
+[efficiency : 0.747653,	copper_loss : 26646.1,	torque : 0.335063,	iron_loss : 0.0993503,	current : 63.4115	]
+[efficiency : 0.838754,	copper_loss : 15177.2,	torque : 0.335063,	iron_loss : 0.00559274,	current : 63.4115	]
+	Average efficiency: 0.811099
+	Maximum efficiency: 0.874718
+
+Generation : 4
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.00697604,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.0205796,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0109228,	current : 63.4115	]
+[efficiency : 0.866349,	copper_loss : 12179.1,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.857167,	copper_loss : 13155.2,	torque : 0.335063,	iron_loss : 0.00701189,	current : 63.4115	]
+[efficiency : 0.773693,	copper_loss : 23092.2,	torque : 0.335063,	iron_loss : 0.0264662,	current : 63.4115	]
+[efficiency : 0.821305,	copper_loss : 17176.9,	torque : 0.335063,	iron_loss : 0.019674,	current : 63.4115	]
+[efficiency : 0.641142,	copper_loss : 44188,	torque : 0.335063,	iron_loss : 0.09592,	current : 63.4115	]
+[efficiency : 0.845403,	copper_loss : 14436.8,	torque : 0.335063,	iron_loss : 0.190372,	current : 63.4115	]
+	Average efficiency: 0.826883
+	Maximum efficiency: 0.874718
+
+Generation : 5
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0109228,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.866349,	copper_loss : 12179.1,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0109228,	current : 63.4115	]
+[efficiency : 0.866349,	copper_loss : 12179.1,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.868231,	copper_loss : 11981.6,	torque : 0.335063,	iron_loss : 0.0037893,	current : 63.4115	]
+[efficiency : 0.755489,	copper_loss : 25551,	torque : 0.335063,	iron_loss : 0.0208958,	current : 63.4115	]
+[efficiency : 0.827959,	copper_loss : 16404.2,	torque : 0.335063,	iron_loss : 0.217701,	current : 63.4115	]
+[efficiency : 0.642926,	copper_loss : 43846.5,	torque : 0.335063,	iron_loss : 0.052397,	current : 63.4115	]
+	Average efficiency: 0.832618
+	Maximum efficiency: 0.874718
+
+Generation : 6
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0109228,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0109228,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0109228,	current : 63.4115	]
+[efficiency : 0.588256,	copper_loss : 55258,	torque : 0.335063,	iron_loss : 0.479359,	current : 63.4115	]
+[efficiency : 0.607749,	copper_loss : 50953.4,	torque : 0.335063,	iron_loss : 0.390887,	current : 63.4115	]
+[efficiency : 0.820805,	copper_loss : 17235.5,	torque : 0.335063,	iron_loss : 0.00992988,	current : 63.4115	]
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00425921,	current : 63.4115	]
+	Average efficiency: 0.814639
+	Maximum efficiency: 0.881268
+
+Generation : 7
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00299924,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0111551,	current : 63.4115	]
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00425921,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.719739,	copper_loss : 30740.7,	torque : 0.335063,	iron_loss : 0.790946,	current : 63.4115	]
+[efficiency : 0.681184,	copper_loss : 36949.9,	torque : 0.335063,	iron_loss : 0.0160781,	current : 63.4115	]
+[efficiency : 0.80974,	copper_loss : 18549.8,	torque : 0.335063,	iron_loss : 0.0513975,	current : 63.4115	]
+[efficiency : 0.765454,	copper_loss : 24190.6,	torque : 0.335063,	iron_loss : 0.0221232,	current : 63.4115	]
+	Average efficiency: 0.823753
+	Maximum efficiency: 0.881268
+
+Generation : 8
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00561909,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0149778,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00299924,	current : 63.4115	]
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00425921,	current : 63.4115	]
+[efficiency : 0.874718,	copper_loss : 11307.2,	torque : 0.335063,	iron_loss : 0.0108738,	current : 63.4115	]
+[efficiency : 0.768737,	copper_loss : 23750.1,	torque : 0.335063,	iron_loss : 0.11095,	current : 63.4115	]
+[efficiency : 0.729581,	copper_loss : 29261.6,	torque : 0.335063,	iron_loss : 0.12307,	current : 63.4115	]
+[efficiency : 0.792992,	copper_loss : 20609,	torque : 0.335063,	iron_loss : 0.0190029,	current : 63.4115	]
+[efficiency : 0.725915,	copper_loss : 29808.1,	torque : 0.335063,	iron_loss : 0.190777,	current : 63.4115	]
+	Average efficiency: 0.828518
+	Maximum efficiency: 0.881268
+
+Generation : 9
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00226366,	current : 63.4115	]
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00573202,	current : 63.4115	]
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00561909,	current : 63.4115	]
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00299924,	current : 63.4115	]
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00425921,	current : 63.4115	]
+[efficiency : 0.881268,	copper_loss : 10636.5,	torque : 0.335063,	iron_loss : 0.00561909,	current : 63.4115	]
+[efficiency : 0.796372,	copper_loss : 20184.4,	torque : 0.335063,	iron_loss : 2.05519,	current : 63.4115	]
+[efficiency : 0.782331,	copper_loss : 21959.6,	torque : 0.335063,	iron_loss : 6.02482,	current : 63.4115	]
+[efficiency : 0.899295,	copper_loss : 8840.47,	torque : 0.335063,	iron_loss : 0.21406,	current : 63.4115	]
+[efficiency : 0.842984,	copper_loss : 14704.7,	torque : 0.335063,	iron_loss : 0.180033,	current : 63.4115	]
+	Average efficiency: 0.860859
+	Maximum efficiency: 0.899295
