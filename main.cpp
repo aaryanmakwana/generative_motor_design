@@ -11,6 +11,8 @@ void get_new_generation(bldc* BLDC);
 bldc_params params = {50.00,1500.00,415.00,0.95};
 fitness_function fitness_func = {15,1,10};
 
+unsigned seed;
+
 int main(){
 
     bldc BLDC[N_CHIDREN];

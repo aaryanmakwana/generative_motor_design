@@ -13,8 +13,6 @@ using namespace std;
 #define RESISTIVITY 0.0000002
 #define SPECIFIC_IRON_LOSS 0.02
 
-unsigned seed;
-
 struct fitness_function{
     double W_eff;
     double W_T;
@@ -27,6 +25,7 @@ struct bldc_params{
   double V;
   double efficiency;
 };
+
 
 struct design_variables{
     double Bg;
@@ -82,7 +81,7 @@ int random_int(int lower, int upper) {
     return rd;
 };
 
-class bldc{
+class BLDC{
     public:
         struct bldc_params parameters;
         struct design_variables variables;
